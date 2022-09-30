@@ -1,0 +1,15 @@
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.exe
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.deps.json
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.runtimeconfig.json
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.dll
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.pdb
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.csproj.AssemblyReference.cache
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.GeneratedMSBuildEditorConfig.editorconfig
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.AssemblyInfoInputs.cache
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.AssemblyInfo.cs
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.csproj.CoreCompileInputs.cache
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.dll
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\refint\ProjetoPizzaria.dll
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.pdb
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.genruntimeconfig.cache
+H:\Faculdade\4 Semestre\OO\Projeto\ProjetoPizzaria\obj\Debug\net6.0\ref\ProjetoPizzaria.dll
